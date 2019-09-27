@@ -8,8 +8,4 @@ Keyword extraction: For this there is a supervised and an unsupervised technique
 Recommender system: For this there are two techniques, one based on cosine similarity of RAKE, and the other on cosine similarity of TF-IDF.
 
 Contributors:
-Elien van Riet
-David Fortini
-Lu Zheng
-Xu Zhang
-Rudy Schueder
+Elien van Riet, David Fortini, Lu Zheng, Xu Zhang and Rudy Schueder
