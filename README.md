@@ -3,9 +3,12 @@ By extracting keywords and sentiment analysis customers can get a better insight
 
 Consists of 2 parts:
 
-Keyword extraction: For this there is a supervised and an unsupervised technique, relying on TF-IDF + frequency and TF-IDF + random forest respectively.
-
-Recommender system: For this there are two techniques, one based on cosine similarity of RAKE, and the other on cosine similarity of TF-IDF.
+*Keyword extraction: For this there is a supervised and an unsupervised technique, relying on TF-IDF + frequency and TF-IDF + random forest respectively.
+*Recommender system: For this there are two techniques, one based on cosine similarity of RAKE, and the other on cosine similarity of TF-IDF.
 
 Contributors:
-Elien van Riet, David Fortini, Lu Zheng, Xu Zhang and Rudy Schueder
+*Elien van Riet
+*David Fortini
+*Lu Zheng
+*Xu Zhang 
+*Rudy Schueder
